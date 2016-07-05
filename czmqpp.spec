@@ -58,5 +58,8 @@ rm -f %{buildroot}%{_libdir}/libczmq++.{a,la}
 
 
 %changelog
+* Tue Jul 05 2016 Tomasz Rostanski <tomasz.rostanski@thalesgroup.com> 1.2.0-1
+- new package built with tito
+
 * Tue Jul 05 2016 Tomasz Rostanski <tomasz.rostanski@thalesgroup.com.pl> 1.2.0-1
 - initial version
